@@ -1,0 +1,4 @@
+在Jar包目录下打开cmd，输入java -jar XXX.jar即可运行
+浏览器输url：localhost：8089
+管理账号email：1551483075@qq.com
+password:888888
